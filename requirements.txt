@@ -1,0 +1,5 @@
+moviepy>=1.0.3
+
+# Note: FFmpeg is required but installed separately
+# Install FFmpeg from: https://ffmpeg.org/download.html
+# Make sure FFmpeg is added to your system PATH
