@@ -2,7 +2,7 @@
 title Video Renamer - Drag and Drop
 echo.
 echo ===========================================
-echo   VIDEO RENAMER - DRAG AND DROP MODE
+echo   QUICKBATCH - DRAG AND DROP MODE
 echo ===========================================
 echo.
 
